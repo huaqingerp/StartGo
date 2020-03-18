@@ -1,0 +1,7 @@
+How to change KALI system language.
+open "terminal"
+input "sudo dpkg-reconfigure locakse"
+use up/down key to choose
+"en_US.UTF-8 UTF-8"
+space key to make sure.(空格键确定,然后回车键，然后重启reboot OK.)
+Enter
