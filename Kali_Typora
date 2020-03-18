@@ -1,0 +1,6 @@
+1.先在Typora官网下载Linux下的二进制安装包：https://typora.io/linux/Typora-linux-x64.tar.gz
+2.下载完成后找到Typora-linux-x64.tar.gz，一般在当前用户的home文件夹内。
+3.解压缩Typora-linux-x64.tar.gz：(tar xvf Typora-linux-x64.tar.gz)
+4.解压缩完毕之后目录下有一个bin文件夹，cd bin/Typora-linux-x64/
+5.升级为超级用户：sudo su
+6.执行#./Typora --no-sandbox
